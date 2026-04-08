@@ -1,0 +1,16 @@
+id,firstName,lastName,email,department,salary
+1,john,doe,john.doe@example.com,IT,75000
+2,jane,smith,invalid-email,HR,65000
+3,mike,johnson,mike.johnson@example.com,Finance,-5000
+4,sarah,williams,sarah.williams@example.com,IT,80000
+5,david,brown,david.brown@example.com,Marketing,68000
+6,emily,davis,emily@invalid,IT,72000
+7,james,miller,james.miller@example.com,HR,0
+8,linda,wilson,linda.wilson@example.com,Finance,85000
+9,robert,moore,robert.moore@example.com,IT,76000
+10,maria,taylor,maria.taylor@example.com,Marketing,70000
+11,william,anderson,william.anderson@example.com,Finance,82000
+12,patricia,thomas,patricia.thomas@example.com,HR,64000
+13,richard,jackson,richard.jackson@example.com,IT,79000
+14,jennifer,white,jennifer.white@example.com,Marketing,71000
+15,charles,harris,charles.harris@example.com,Finance,83000
