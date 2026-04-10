@@ -389,6 +389,22 @@ Database: ⚠️ Record NOT inserted
 
 ---
 
+## 🎓 Learning Path
+
+**Series Progression:**
+1. Project 01 (Basic structure)
+2. Project 02 (Chunk processing)
+3. **Project 03** ← You are here (Data transformation)
+4. Project 04 (Reverse flow)
+5. Project 05 (Multi-step jobs)
+6. Project 06 (Scheduling)
+7. Project 07 (Parallel processing)
+8. Project 08 (REST APIs)
+9. Project 09 (Conditional flow)
+10. Project 10 (Production-ready)
+
+---
+
 ## 💡 Key Takeaways
 
 ✅ **ItemProcessor** is the heart of data transformation  
